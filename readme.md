@@ -2,7 +2,7 @@
 Pixel University (3D Modeling Files, including FBX + OBJ)
 
 # License
-CC BY 4.0
+CC0
 
 # Note
 My old GitHub account and repositories were reported and taken down. I've re-uploaded the previous project today.
